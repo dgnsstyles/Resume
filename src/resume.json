@@ -1,0 +1,138 @@
+{
+	"name": "David Goren",
+	"email": "Dgoren@hotmail.com",
+	"phone": "(56) 931178958",
+	"image": "",
+	"website": "programmingbuddy.club",
+	"twitter": "@MurdockPua",
+    "github": "github.com/dgnsstyles",
+    "githubURL": "https://github.com/dgnsstyles",
+	"twitterURL": "https://twitter.com/MurdockPua",
+	"experiences" : [
+		{
+			"title" : "Web Developer",
+			"period": "2017",
+			"company": "Freelance, Santiago",
+			"companyURL": "http://programmingbuddy.club",
+			"details": "I generate diverse Wordpress Templates, Laravel, Ruby on Rails, and javascript applications for diverse clients, in the meanwhile I study more about the new tecnologies."
+		},
+		{
+			"title" : "UI/UX Designer",
+			"period": "2015 - 2016",
+			"company": "Wix, Israel",
+			"companyURL": "www.wix.com",
+			"details": "Design components, prototypes to the frontend developers, creating new features and check the user friendly of the new features of the applications."
+		}
+        ,
+		{
+			"title" : "Graphic Designer",
+			"period": "2014",
+			"company": "Dan Shlatim, Israel",
+			"companyURL": "http://programmingbuddy.club",
+			"details": "Intern to graphic design, Creating new prints, signs on demand"
+		}
+	],
+	"projects": [
+		{
+			"name":"Velocity",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"DevStudio",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Tempo",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Atom",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Delta",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+	],
+	"skills": [
+		{
+			"name": "Python & Django",
+			"percent": "98%"
+		},
+        {
+			"name": "Laravel & PHP",
+			"percent": "75%"
+		},
+		{
+			"name": "Javascript & jQuery",
+			"percent": "90%"
+		},
+		{
+			"name": "Angular",
+			"percent": "80%"
+		},
+        {
+			"name": "React",
+			"percent": "80%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "Ruby on Rails",
+			"percent": "70%"
+		},
+		{
+			"name": "Sketch & Photoshop",
+			"percent": "85%"
+		},
+		{
+			"name": "Ilustrator",
+			"percent": "70%"
+		}
+	],
+	"education": [
+		{
+			"degree": "Graphic Designer",
+			"university": "University of Ben Gurion",
+			"period": "2014 - 2015"
+		},
+		{
+			"degree": "Full Stack Developer",
+			"university": "Launchpad-Chile",
+			"period": "2017"
+		}
+	],
+	"languages": [
+		{
+			"name":"Spanish",
+			"details": "Native"
+		},
+		{
+			"name":"English",
+			"details": "Native"
+		},
+		{
+			"name":"Hebrew",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Play Guitar",
+		"Design",
+		"Cooking",
+		"Mainly Coding"
+	]
+}
+
+
+
+
+
+
